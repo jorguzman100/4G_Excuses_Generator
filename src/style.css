@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+img {
+  width: 30%;
+}
+
+#excuse {
+  font-size: 1.2em;
+  font-weight: bold;
+}
